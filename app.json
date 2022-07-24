@@ -4,8 +4,8 @@
 	"description": "Fully Costamisable Bot by CYBERXKID.",
 	"repository": "https://github.com/Diegoson/ALEXA-QUEEN-V3",
 	"website": "https://github.com/Diegoson/",
-	"logo": "https://avatars.githubusercontent.com/u/91786052?v=4",
-	"keywords": ["multi-device","Prince-Rudh"],
+	"logo": "https://i.ibb.co/TPLgRdk/Alexa.jpg/Alexaqueen.png?v=4",
+	"keywords": ["multi-device","Alexa-Queen"],
 	"stack": "container",
 	"env": { 
     "OWNER": {
@@ -48,7 +48,7 @@
     "ALIVE_IMAGE": {
             "description": "Set Alive Message Image",
             "required": false,
-            "value": "https://i.imgur.com/D5SujIs.jpeg"
+            "value": "https://i.ibb.co/TPLgRdk/Alexa.jpg/Alexaqueen.png"
         },
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
@@ -107,12 +107,12 @@
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://i.imgur.com/D5SujIs.jpeg"
+            "value": "https://i.ibb.co/TPLgRdk/Alexa.jpg/Alexaqueen.png"
         },
     "IMAGE2": {
             "description": "Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://i.imgur.com/D5SujIs.jpeg"
+            "value": "https://i.ibb.co/TPLgRdk/Alexa.jpg/Alexaqueen.png"
         },
     "BUTTONURL_LINK1": {
             "description": "URL Button Id/Link (leave it if you Wish to use the default)",
