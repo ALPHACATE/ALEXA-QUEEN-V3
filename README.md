@@ -11,3 +11,9 @@
 <a href="https://wa.me/27686881509"><img src="https://img.shields.io/badge/Contact CYBERXKID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/BgFiKPSLFsp54TMqoGH0oV"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
+
+
+◢◤◇◥◣◥◤◢◤◆◥◣◥◤◢◤◇◥◣
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Diegoson/ALEXA-QUEEN-V3/)
+◢◤◇◥◣◥◤◢◤◆◥◣◥◤◢◤◇◥◣
+
