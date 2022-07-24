@@ -19,7 +19,3 @@
 [![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/LOWER.png)](https://youtu.be/rqbeusycfHU)
 
 
-◢◤◇◥◣◥◤◢◤◆◥◣◥◤◢◤◇◥◣
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Diegoson/ALEXA-QUEEN-V3/)
-◢◤◇◥◣◥◤◢◤◆◥◣◥◤◢◤◇◥◣
-
