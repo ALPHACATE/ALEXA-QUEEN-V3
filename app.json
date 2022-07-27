@@ -168,7 +168,7 @@
         },
      
     "ZENS_API": {
-            "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
+            "description": "don't remove this api key bot will bot run, if it not work get api key from https://zenzapis.xyz.",
             "required": false,
             "value": "56f07ba6b54a"
         }
