@@ -53,7 +53,7 @@
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
             "required": false,
-            "value": " ╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n ║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n ║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n ╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n ⊷═〘𝗔𝗟𝝣𝗫𝗔 𝗤𝗨𝗘𝗘𝗡〙═⊷\n╭────────────────⊷❍\n│   *𝗛𝗘𝗬*🥰\n│🧚‍♂️*BOTNAME* : ALEXA QUEEN\n│🧚‍♂️*OWNER* : CYBERXKID\n│🧚‍♂️ *VERSION*      : 𝟹.𝟶.𝟶\n│🧚‍♂️ *LANGUAGE*  : ENGLISH\n│🧚‍♂️ *WORK TYPE* : PUBLIC\n│🧚‍♂️ *BOT*             : @WHATSAPP\n│\n│           █║▌║▌║║▌║ █\n│          © 𝙰𝙻𝙴𝚇𝙰 𝚀𝚄𝙴𝙴𝙽\n│\n│𒀭 *ᴛʜᴇ ᴄʀᴏᴡɴʟᴇꜱꜱ ǫᴜᴇᴇɴ* 𒀭\n╰─────────────────⊷❍\n╭─────────────────⊷❍\n│  *ʜᴇʏ 💬 ʜᴇʟᴘ ᴍᴇssᴀɢᴇ ᴛʏᴘᴇ*\n│       *Help Menu List 💬*\n│ 𒀭───────𒀭───────𒀭\n╰─────────────────⊷❍"
+            "value": " ╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n ║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n ║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n ╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n ⊷═〘𝗔𝗟𝝣𝗫𝗔 𝗤𝗨𝗘𝗘𝗡〙═⊷\n╭────────────────⊷❍\n│   *HEY USER YOU GOOD*🥰\n│🧚‍♂️*BOTNAME* : ALEXA QUEEN\n│🧚‍♂️*OWNER* : CYBERXKID\n│🧚‍♂️ *VERSION*      : 𝟹.𝟶.𝟶\n│🧚‍♂️ *LANGUAGE*  : ENGLISH\n│🧚‍♂️ *WORK TYPE* : PUBLIC\n│🧚‍♂️ *BOT*             : @WHATSAPP\n│\n│           █║▌║▌║║▌║ █\n│          © 𝙰𝙻𝙴𝚇𝙰 𝚀𝚄𝙴𝙴𝙽\n│\n│𒀭 *ᴛʜᴇ ᴄʀᴏᴡɴʟᴇꜱꜱ ǫᴜᴇᴇɴ* 𒀭\n╰─────────────────⊷❍\n╭─────────────────⊷❍\n│  *ʜᴇʏ 💬 ʜᴇʟᴘ ᴍᴇssᴀɢᴇ ᴛʏᴘᴇ*\n│       *Help Menu List 💬*\n│ 𒀭───────𒀭───────𒀭\n╰─────────────────⊷❍"
         }, 
 	"OWNER_MESS": {
             "description": "Set Owner message. (leave it if you Wish to use the default)",
@@ -137,7 +137,7 @@
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
             "required": false,
-            "value": " █▄─▄█   █▀▀   █▄─█   █─█\n █─█─█   █▀▀   █─▀█   █─█\n ▀───▀   ▀▀▀   ▀──▀   ─▀─\n ⊷═〘𝗔𝗟𝝣𝗫𝗔 𝗤𝗨𝗘𝗘𝗡〙═⊷\n╭────────────────⊷❍\n│    *𝗛𝗘𝗬* 🥰  🧚‍♂️\n│🧚‍♂️ *BOTNAME* : ALEXA QUEEN\n│🧚‍♂️ *OWNER* : CYBERXKID\n│🧚‍♂️ *VERSION*      : 𝟹.𝟶.𝟶\n│🧚‍♂️ *LANGUAGE*  : ENGLISH\n│🧚‍♂️ *WORK TYPE* : PUBLIC\n│🧚‍♂️ *BOT*             : @WHATSAPP\n│  ─────────────────\n│           █║▌║▌║║▌║ █\n│          © 𝙰𝙻𝙴𝚇𝙰 𝚀𝚄𝙴𝙴𝙽\n│  ─────────────────\n│𒀭 *ᴛʜᴇ ᴄʀᴏᴡɴʟᴇꜱꜱ ǫᴜᴇᴇɴ* 𒀭\n╰─────────────────⊷❍\n╭─────────────────⊷❍\n│                   *ɢɪᴛʜᴜʙ*\n│https//github.com/Diegoson\n│ 𒀭───────𒀭───────𒀭\n╰─────────────────⊷❍"
+            "value": " █▄─▄█   █▀▀   █▄─█   █─█\n █─█─█   █▀▀   █─▀█   █─█\n ▀───▀   ▀▀▀   ▀──▀   ─▀─\n ⊷═〘𝗔𝗟𝝣𝗫𝗔 𝗤𝗨𝗘𝗘𝗡〙═⊷\n╭────────────────⊷❍\n│    *HEY USER YOU GOOD* 🥰  🧚‍♂️\n│🧚‍♂️ *BOTNAME* : ALEXA QUEEN\n│🧚‍♂️ *OWNER* : CYBERXKID\n│🧚‍♂️ *VERSION*      : 𝟹.𝟶.𝟶\n│🧚‍♂️ *LANGUAGE*  : ENGLISH\n│🧚‍♂️ *WORK TYPE* : PUBLIC\n│🧚‍♂️ *BOT*             : @WHATSAPP\n│  ─────────────────\n│           █║▌║▌║║▌║ █\n│          © 𝙰𝙻𝙴𝚇𝙰 𝚀𝚄𝙴𝙴𝙽\n│  ─────────────────\n│𒀭 *ᴛʜᴇ ᴄʀᴏᴡɴʟᴇꜱꜱ ǫᴜᴇᴇɴ* 𒀭\n╰─────────────────⊷❍\n╭─────────────────⊷❍\n│                   *ɢɪᴛʜᴜʙ*\n│https//github.com/Diegoson\n│ 𒀭───────𒀭───────𒀭\n╰─────────────────⊷❍"
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
@@ -147,7 +147,7 @@
     "MENU_HEAD": {
             "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
             "required": false,
-            "value": " █▄─▄█   █▀▀   █▄─█   █─█\n █─█─█   █▀▀   █─▀█   █─█\n ▀───▀   ▀▀▀   ▀──▀   ─▀─\n ⊷═〘𝗔𝗟𝝣𝗫𝗔 𝗤𝗨𝗘𝗘𝗡〙═⊷\n╭────────────────⊷❍\n│    *𝗛𝗘𝗬 * 🥰  🧚‍♂️\n│🧚‍♂️ *BOTNAME* : ALEXA QUEEN\n│🧚‍♂️ *OWNER* : CYBERXKID\n│🧚‍♂️ *VERSION*      : 𝟹.𝟶.𝟶\n│🧚‍♂️ *LANGUAGE*  : ENGLISH\n│🧚‍♂️ *WORK TYPE* : PUBLIC\n│🧚‍♂️ *BOT*             : @WHATSAPP\n│  ─────────────────\n│           █║▌║▌║║▌║ █\n│          © 𝙰𝙻𝙴𝚇𝙰 𝚀𝚄𝙴𝙴𝙽\n│  ─────────────────\n│𒀭 *ᴛʜᴇ ᴄʀᴏᴡɴʟᴇꜱꜱ ǫᴜᴇᴇɴ* 𒀭\n╰─────────────────⊷❍\n╭─────────────────⊷❍\n│                   *ɢɪᴛʜᴜʙ*\n│https://github.com/Diegoson\n│ 𒀭───────𒀭───────𒀭\n╰─────────────────⊷❍"
+            "value": " █▄─▄█   █▀▀   █▄─█   █─█\n █─█─█   █▀▀   █─▀█   █─█\n ▀───▀   ▀▀▀   ▀──▀   ─▀─\n ⊷═〘𝗔𝗟𝝣𝗫𝗔 𝗤𝗨𝗘𝗘𝗡〙═⊷\n╭────────────────⊷❍\n│    *HEY USER YOU GOOD* 🥰  🧚‍♂️\n│🧚‍♂️ *BOTNAME* : ALEXA QUEEN\n│🧚‍♂️ *OWNER* : CYBERXKID\n│🧚‍♂️ *VERSION*      : 𝟹.𝟶.𝟶\n│🧚‍♂️ *LANGUAGE*  : ENGLISH\n│🧚‍♂️ *WORK TYPE* : PUBLIC\n│🧚‍♂️ *BOT*             : @WHATSAPP\n│  ─────────────────\n│           █║▌║▌║║▌║ █\n│          © 𝙰𝙻𝙴𝚇𝙰 𝚀𝚄𝙴𝙴𝙽\n│  ─────────────────\n│𒀭 *ᴛʜᴇ ᴄʀᴏᴡɴʟᴇꜱꜱ ǫᴜᴇᴇɴ* 𒀭\n╰─────────────────⊷❍\n╭─────────────────⊷❍\n│                   *ɢɪᴛʜᴜʙ*\n│https://github.com/Diegoson\n│ 𒀭───────𒀭───────𒀭\n╰─────────────────⊷❍"
         },
     "MENU_MESSAGE": {
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
