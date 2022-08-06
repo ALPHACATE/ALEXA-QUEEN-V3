@@ -1,4 +1,5 @@
-<h1 align="center">❏𝗔𝗟𝗘𝗫𝗔 𝗤𝗨𝗘𝗘𝗡 𝗩3❐<br></h1>
+
+<h1 align="center">❏ᴀʟᴇxᴀ ǫᴜᴇᴇɴ ᴠ3❐<br></h1>
 <p align="center">
 
 <div align="center">
@@ -13,7 +14,7 @@
 </p>
 
 ## ''DONT DEPLOY THIS BOT 
-[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](https://replit.com/@Cyberm/ALEXA-QUEEN-MD-V3-QR-CODE?=1outputonly=1&lite=1#index.js)
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](https://alexa-queen-v3-qr-code.diegoson.repl.co/)
   
 [![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/Diegoson/ALEXA-QUEEN-V3)
 
